@@ -1,1 +1,3 @@
-web: gunicorn --chdir django_api django_api.wsgi
+web: gunicorn notes.wsgi:application --log-file - --log-level debug
+python manage.py collectstatic --noinput
+manage.py migrate
