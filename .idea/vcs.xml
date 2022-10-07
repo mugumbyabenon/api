@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/bkworld" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/notes/thawing-mountain-43011" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bkworld" vcs="" />
+    <mapping directory="$PROJECT_DIR$/notes/thawing-mountain-43011" vcs="" />
   </component>
 </project>
